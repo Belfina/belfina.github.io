@@ -420,6 +420,12 @@ color: #2c3e50;
 #contact .social i.fa:hover {
 	color: #fff;
 }
+#email {
+	margin: 0 0 20px 0;
+	font-weight: 400;
+	font-size: 36px;
+	color: #414a52;
+}
 
 .btn:active, .btn.active {
 	background-image: none;
