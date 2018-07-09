@@ -422,10 +422,8 @@ color: #2c3e50;
 }
 
 #email {
-	font-size: 26px;
-	padding: 4px;
-	color: #343b42;
-	transition: all 0.3s;
+	height: 300px;
+	width:300px;
 }
 .btn:active, .btn.active {
 	background-image: none;
