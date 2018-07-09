@@ -421,10 +421,6 @@ color: #2c3e50;
 	color: #fff;
 }
 
-#contact img {
-	height: 30px;
-	width: 30px;
-}
 .btn:active, .btn.active {
 	background-image: none;
 	outline: 0;
